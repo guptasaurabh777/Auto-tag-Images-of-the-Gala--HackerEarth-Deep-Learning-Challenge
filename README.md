@@ -6,10 +6,10 @@
 
 ## Dataset
 
-The dataset consists of 5,983 images that belong to 4 categories. These categories are food, attire, decor and signage, and miscellaneous.
+### The dataset consists of 5,983 images that belong to 4 categories. These categories are food, attire, decor and signage, and miscellaneous.
 
-The benefits of practicing this problem by using Machine Learning or Deep Learning techniques are as follows:
+### The benefits of practicing this problem by using Machine Learning or Deep Learning techniques are as follows:
 
-This challenge encourages you to apply your Machine Learning skills to build models that classify images into multiple categories
-This challenge helps you enhance your knowledge of classification actively. It is one of the basic building blocks of Machine Learning and Deep Learning techniques.
-You are required to build a model that auto-tag images and classifies them into various categories of aesthetics and entertainment for a gala night.
+### This challenge encourages you to apply your Machine Learning skills to build models that classify images into multiple categories
+### This challenge helps you enhance your knowledge of classification actively. It is one of the basic building blocks of Machine Learning and Deep Learning techniques.
+### You are required to build a model that auto-tag images and classifies them into various categories of aesthetics and entertainment for a gala night.
